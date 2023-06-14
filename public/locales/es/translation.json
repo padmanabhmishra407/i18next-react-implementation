@@ -1,0 +1,35 @@
+{
+    "main" : {
+        "home":"Hogar",
+        "about" : "Acerca de :"
+    },
+    "body":{
+        "para1":"En publicaciones y diseño gráfico, Lorem ipsum es un texto de marcador de posición que se usa comúnmente para demostrar la forma visual de un documento o un tipo de letra sin depender de un contenido significativo. Lorem ipsum se puede usar como marcador de posición antes de que esté disponible la copia final. También se usa para reemplazar texto temporalmente en un proceso llamado griego, que permite a los diseñadores considerar la forma de una página web o publicación, sin que el significado del texto influya en el diseño. Lorem ipsum es típicamente una versión corrupta de De finibus bonorum et malorum, un texto del siglo I a. C. del estadista y filósofo romano Cicerón, con palabras alteradas, añadidas y eliminadas para convertirlo en un latín impropio y sin sentido. Las dos primeras palabras en sí mismas son un truncamiento de 'dolorem ipsum' ('el dolor mismo').",
+        "para2":"Las versiones del texto Lorem ipsum se han utilizado en la composición tipográfica al menos desde la década de 1960, cuando se popularizó con los anuncios de las hojas de transferencia de Letraset. Lorem ipsum se introdujo en el mundo digital a mediados de la década de 1980, cuando Aldus lo empleó en gráficos y textos -plantillas de procesamiento para su programa de autoedición PageMaker. Otros procesadores de texto populares, incluidos Pages y Microsoft Word, han adoptado desde entonces Lorem ipsum, al igual que muchos paquetes LaTeX, administradores de contenido web como Joomla! y WordPress, y bibliotecas CSS como Semantic UI."
+    },
+    "list":{
+        "title":"Lista de frutas:",
+        "item1":"Manzana",
+        "item2":"Naranja",
+        "item3":"Uvas",
+        "item4":"Ciruela"
+    },
+    "header":{
+        "home":"Hogar",
+        "form":"Forma",
+        "language":"Idioma"
+    },
+    "userForm":{
+        "title":"Formulario de detalles del usuario",
+        "fname":"Nombre de pila",
+        "mname":"Segundo nombre",
+        "lname":"Apellido",
+        "tel":"Teléfono no.",
+        "email":"Correo electrónico",
+        "password":"Contraseña",
+        "submit":"Entregar",
+        "required":"requerido",
+        "optional":"opcional",
+        "sampleEmail":"usuario@ejemplo.com"
+    }
+}

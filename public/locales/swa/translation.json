@@ -1,0 +1,35 @@
+{
+    "main" : {
+        "home":"Ukurasa wa Nyumbani",
+        "about" : "Kuhusu :"
+    },
+    "body":{
+        "para1":"Katika uchapishaji na usanifu wa picha, Lorem ipsum ni maandishi ya kishikilia nafasi ambayo hutumika sana kuonyesha umbo la kuona la hati au chapa bila kutegemea maudhui yenye maana. Lorem ipsum inaweza kutumika kama kishikilia nafasi kabla nakala ya mwisho kupatikana. Pia hutumiwa kubadilisha maandishi kwa muda katika mchakato unaoitwa greeking, ambayo inaruhusu wabunifu kuzingatia aina ya ukurasa wa wavuti au uchapishaji, bila maana ya maandishi kuathiri muundo. Lorem ipsum kwa kawaida ni toleo mbovu la De finibus bonorum et malorum, maandishi ya karne ya 1 KK ya mwanasiasa wa Kiroma na mwanafalsafa Cicero, yenye maneno yaliyobadilishwa, kuongezwa, na kuondolewa ili kuifanya Kilatini isiyo na maana na isiyofaa. Maneno mawili ya kwanza yenyewe ni ufupisho wa 'dolorem ipsum' ('maumivu yenyewe').",
+        "para2":"Matoleo ya maandishi ya Lorem ipsum yametumika katika upangaji chapa angalau tangu miaka ya 1960, wakati yalipoenezwa na matangazo ya karatasi za uhamishaji za Letraset. Lorem ipsum ilianzishwa kwa ulimwengu wa kidijitali katikati ya miaka ya 1980, Aldus alipoitumia katika picha na neno. -kuchakata violezo vya programu yake ya uchapishaji ya eneo-kazi PageMaker. Vichakataji vingine maarufu vya maneno, ikiwa ni pamoja na Kurasa na Microsoft Word, tangu wakati huo vimetumia Lorem ipsum, kama vile vifurushi vingi vya LaTeX, wasimamizi wa maudhui ya wavuti kama vile Joomla! na WordPress, na maktaba za CSS kama vile UI ya Semantic."
+    },
+    "list":{
+        "title":"Orodha ya Matunda:",
+        "item1":"Tunda la tufaha",
+        "item2":"Chungwa",
+        "item3":"Zabibu",
+        "item4":"Matunda ya plum"
+    },
+    "header":{
+        "home":"Rudi Nyumbani",
+        "form":"Fomu",
+        "language":"Lugha"
+    },
+    "userForm":{
+        "title":"Fomu ya Maelezo ya Mtumiaji",
+        "fname":"Jina la kwanza",
+        "mname":"Jina la kati",
+        "lname":"Jina la familia",
+        "tel":"Nambari ya simu",
+        "email":"Barua pepe",
+        "password":"Nenosiri",
+        "submit":"Wasilisha",
+        "required":"inahitajika",
+        "optional":"hiari",
+        "sampleEmail":"mtumiaji@mfano.com"
+    }
+}
